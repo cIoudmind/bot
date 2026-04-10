@@ -1,0 +1,4 @@
+# Required packages
+requests
+python-telegram-bot
+sqlalchemy
